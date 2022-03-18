@@ -1,0 +1,8 @@
+version: '3.8'
+services:
+        ebook:
+             build: .
+             container_name: fs-s2-be-fundamental
+             image: registry.mejik.xyz/ebook/fs-s2-be-fundamental
+             ports:
+                     - 3005:3000
