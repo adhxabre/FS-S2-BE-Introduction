@@ -7,7 +7,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "Full-Stack e-Book Guide",
   tagline: "e-Book guide for full-stack mentor",
-  url: "https://dumbways.id",
+  url: "http://0.0.0.0",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
