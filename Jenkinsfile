@@ -2,7 +2,7 @@ def secret = 'Ebook'
 def server = 'sgnd@192.168.3.174'
 def directory = 'production/ebook/fullstack/stage2/FS-S2-BE-Introduction'
 def branch = 'deploy'
-def image = 'registry.mejik.xyz/ebook/fs-s2-be-introduction'
+def image = 'registry.mejik.xyz/ebook/fs-s2-be-fundamental'
     
 pipeline{
     agent any
