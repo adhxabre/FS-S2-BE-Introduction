@@ -8,7 +8,7 @@ const config = {
   title: "Full-Stack e-Book Guide",
   tagline: "e-Book guide for full-stack mentor",
   url: "http://0.0.0.0",
-  baseUrl: process.env.BASE_URL,
+  baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
